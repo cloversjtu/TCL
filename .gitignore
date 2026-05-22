@@ -1,0 +1,7 @@
+__pycache__
+data/Taskmaster
+data/dstc8-schema-guided-dialogue
+data/multiwoz
+.vscode.DS_Store
+.DS_Store
+runs_*/
